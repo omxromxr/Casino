@@ -388,7 +388,6 @@
     inventory[itemName]--;
     if (inventory[itemName] <= 0) delete inventory[itemName];
     balance += price;
-    alert(`You sold your ${itemName} for $${price}`);
     updateBalance();
     updateInventory();
     saveGame();
