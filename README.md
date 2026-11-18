@@ -1,3 +1,3 @@
 # Casino
 ## can be downloaded as a PWA
-👉 [Play Here.](https://omxrprob.github.io/Casino)
+👉 [Play Here.](https://humanglobalist.github.io/Casino)
